@@ -1,7 +1,7 @@
 # UR2Unity
-# get file_server
-git clone https://github.com/gramaziokohler/ros_file_server
+
 # run file_server
+git clone https://github.com/gramaziokohler/ros_file_server
 rosrun file_server file_server
 
 # run rosapi (if needed)
