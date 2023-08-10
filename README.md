@@ -9,3 +9,7 @@ rosrun rosapi rosapi_node
 
 # run rosbridge(connect with ros#)
 roslaunch rosbridge_server rosbridge_websocket.launch
+
+# Adding RosConnector into Hierarchy
+1. Add Joint State Patcher (Enable the publisher and subscriber)
+2. Add Pose Stamped Publisher
